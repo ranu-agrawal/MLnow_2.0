@@ -4,7 +4,7 @@ This is a repository for ML.now() course.
 ### Setup & Installation
 
 ```
-$ git clone https://github.com/shivanishimpi/MLnow_2.0.git
+$ git clone https://github.com/ranu-agrawal/MLnow_2.0.git
 $ cd MLnow_2.0
 ```
 
